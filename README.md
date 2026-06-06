@@ -6,7 +6,7 @@
 <h1 align="center">期末速成引擎</h1>
 
 <p align="center">
-  <strong>拯救大学生期末！拒绝挂科！速通考试！</strong>
+  <em>拯救期末！拒绝挂科！速通考试！</em>
 </p>
 
 <p align="center">
