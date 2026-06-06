@@ -1,0 +1,50 @@
+course: 组织行为学
+
+must_know:
+  - 霍桑实验（老师强调必考，最终考试案例分析题核心）
+
+key_points:
+  - 价值观的定义及其两个属性
+  - 群体行为特征
+  - 激励过程理论（期望理论、公平理论、强化理论）
+  - 人际沟通与组织沟通的异同
+
+exam_types:
+  - 选择/判断
+  - 案例分析
+  - 情景知识应用
+
+materials:
+  textbook: 罗宾斯《组织行为学》第18版
+  slides: 老师PPT
+
+preferences:
+  language: 中文
+  tone: 先给一句话核心结论再展开，拒绝学术黑话，拒绝绕弯子
+
+  teaching_methods:
+    - concrete_first
+    - chunking
+    - elaboration
+    - generation
+
+  memory_hooks:
+    - acronym
+    - contrast_table
+    - absurd_example
+
+  exam_tactics:
+    - keyword_mining
+    - trap_awareness
+    - framework_building
+
+  example_domains:
+    - 大学社团/学生会
+    - 小组作业与合作冲突
+    - 宿舍矛盾
+    - 实习/兼职
+    - 选课与绩点博弈
+
+  pacing:
+    check_in_frequency: every_3_points
+    reteach_trigger: "再讲一遍"

@@ -1,0 +1,22 @@
+# 用户课程配置（含个人信息和课程资料，不提交到 Git）
+configs/*.yaml
+!configs/example.yaml
+
+# 学习进度（自动生成，包含用户答题记录）
+progress/*.md
+!progress/.gitkeep
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# IDE
+.vscode/
+.idea/
+
+# 如果用了 Python 辅助脚本（未来可能）
+__pycache__/
+*.pyc
+.venv/
