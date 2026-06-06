@@ -16,6 +16,12 @@ Thumbs.db
 .vscode/
 .idea/
 
+# npx skills add 产生的锁文件
+skills-lock.json
+
+# 安装测试残留的 agents 目录
+.agents/
+
 # 如果用了 Python 辅助脚本（未来可能）
 __pycache__/
 *.pyc
