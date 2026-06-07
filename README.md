@@ -44,6 +44,16 @@ npx skills add https://github.com/liuliu667/cram-engine --skill cram-engine
 
 也可以手动安装：把仓库的 `SKILL.md`、`stages/`、`configs/` 复制到 `~/.agents/skills/cram-engine/`。
 
+### 在 Trae 中使用
+
+不需要装 Node.js，不需要命令行：
+
+```
+git clone https://github.com/liuliu667/cram-engine
+```
+
+用 Trae 打开这个文件夹，说「帮我期末速成XX课」即可自动触发。引擎的 skill 和规则已内置在 `.trae/` 目录下，Trae 会自动识别。
+
 ## 适合什么课
 
 所有文科！定性知识密集的大学课程最合适。文史哲、法学、教育学、新闻传播、社会学、政治学、经管类的大部分期末考都在这个范围里。考试以理解和论述为主就行。
