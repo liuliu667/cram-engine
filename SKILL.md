@@ -36,7 +36,7 @@ description: 期末速成引擎——一个懂学习科学的 AI 老师。基于
 - 进度文件：`~/.cram-engine/progress/<课程名>-progress.md`
 - 首次使用时自动创建 `~/.cram-engine/` 目录结构
 
-> `<skill_dir>` 指 `~/.agents/skills/cram-engine/`（标准 Claude Code 安装路径）。
+> `<skill_dir>` 指当前加载的本 `SKILL.md` 所在目录，阶段指令与配置模板均相对于该目录定位。
 
 ## 工作流程
 
